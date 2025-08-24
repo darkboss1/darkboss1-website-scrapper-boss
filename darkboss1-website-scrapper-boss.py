@@ -23,11 +23,11 @@ from tbselenium.utils import start_xvfb, stop_xvfb
 from pyvirtualdisplay import Display
 print("\n")
 print(colored("     █░█", 'red', attrs=['dark']),colored("█▀ █▀▀ █▀█ ▄▀█ █▀█ █▀█ █▀▀ █▀█  ","white",attrs=['bold']))
-print(colored("     █▄█", 'red', attrs=['dark']),colored("▄█ █▄▄ █▀▄ █▀█ █▀▀ █▀▀ ██▄ █▀▄ ","white", attrs=['bold']))#colored("(v2.0)","blue",))
+print(colored("     █▄█", 'red', attrs=['dark']),colored("▄█ █▄▄ █▀▄ █▀█ █▀▀ █▀▀ ██▄ █▀▄ ","white", attrs=['bold']))#colored("(v3.1)","blue",))
 print(colored("                                   𝓥𝓪𝓷𝓽𝓪", 'white', attrs=['bold']))
 
 print(colored("\n     𝘜𝘯𝘭𝘦𝘢𝘴𝘩 𝘵𝘩𝘦 𝘱𝘰𝘸𝘦𝘳 𝘰𝘧 𝘖𝘱𝘦𝘯-𝘚𝘰𝘶𝘳𝘤𝘦 𝘐𝘯𝘵𝘦𝘭.","yellow"))
-print(colored("           ~𝑩𝒚: 𝑷𝒓𝒂𝒏𝒋𝒂𝒍 𝑮𝒐𝒆𝒍 (𝒛0𝒎31𝒆𝒏7)\n", "red"))
+print(colored("           ~𝑩𝒚: darkboss1 Ak47 (Security-Expert)\n", "red"))
 
 extracted_usernames0 = []
 extracted_phone_numbers0 = []
