@@ -15,6 +15,6 @@ sudo apt-get update && apt-get install -y firefox
 sudo apt-get install -y tor
 
 # Make the script executable
-chmod +x ../Uscrapper-vanta.py
+chmod +x ../darkboss1-website-scrapper-boss.py
 
 echo "Installation complete."
