@@ -5,8 +5,10 @@ darkboss1-website-scrapper-boss
 git clone https://github.com/darkboss1/darkboss1-website-scrapper-boss.git
 ```
 ```
-cd Uscrapper/install/ 
-chmod +x ./install.sh && ./install.sh      #For Unix/Linux systems
+cd darkboss1-website-scrapper-boss/install/ 
+# chmod +x ./install.sh 
+# bash install.sh      
+#For Unix/Linux systems
 ```
 
 <br><h2> Usage:</h2>
